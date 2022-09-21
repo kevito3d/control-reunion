@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677316554189",
+    "project_id": "control-reunion",
+    "storage_bucket": "control-reunion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677316554189:android:23f4c28e2bcda047ada884",
+        "android_client_info": {
+          "package_name": "com.otivek.ec.control_reunion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677316554189-rsns0len58839esqh1n08ndv8qmophgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otivek.ec.control_reunion",
+            "certificate_hash": "68b98438f1c847eac6bc588cfe2efa590d37e243"
+          }
+        },
+        {
+          "client_id": "677316554189-s90j11kohu79vqbmq37371rd59edbv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoSpQmjLVY1SC12rNP3okCAVg69_yWQh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677316554189-s90j11kohu79vqbmq37371rd59edbv81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
